@@ -1,5 +1,5 @@
 header { 
-        background-color: rgb(7, 7, 111);
+        background-color: rgb(5, 5, 59);
         color: antiquewhite;
         text-align: center;
 
@@ -9,4 +9,16 @@ header {
 main{ 
 
     background-color: lightgray;
+    padding: 1em;
+    text-align: left;
 }
+
+body {
+
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+}
+
+
+
